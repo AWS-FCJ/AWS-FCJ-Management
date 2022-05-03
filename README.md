@@ -1,6 +1,6 @@
 # AWS-FCJ-Management - Nodejs, Express, MySQL & Handlebars
 
-### Demo
+### Demo website
 
 1. **Homepage**
 
